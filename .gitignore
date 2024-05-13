@@ -12,3 +12,6 @@ obj
 *.user
 *.userprefs
 UpgradeLog*.*
+
+.vs
+.DS_Store
